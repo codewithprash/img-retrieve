@@ -1,0 +1,11 @@
+C:\Users\zoey\source\repos\showimg\showimg\bin\Debug\showimg.exe.config
+C:\Users\zoey\source\repos\showimg\showimg\bin\Debug\showimg.exe
+C:\Users\zoey\source\repos\showimg\showimg\bin\Debug\showimg.pdb
+C:\Users\zoey\source\repos\showimg\showimg\bin\Debug\showimg.xml
+C:\Users\zoey\source\repos\showimg\showimg\obj\Debug\showimg.Form1.resources
+C:\Users\zoey\source\repos\showimg\showimg\obj\Debug\showimg.Resources.resources
+C:\Users\zoey\source\repos\showimg\showimg\obj\Debug\showimg.vbproj.GenerateResource.cache
+C:\Users\zoey\source\repos\showimg\showimg\obj\Debug\showimg.vbproj.CoreCompileInputs.cache
+C:\Users\zoey\source\repos\showimg\showimg\obj\Debug\showimg.exe
+C:\Users\zoey\source\repos\showimg\showimg\obj\Debug\showimg.xml
+C:\Users\zoey\source\repos\showimg\showimg\obj\Debug\showimg.pdb
